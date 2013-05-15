@@ -4,7 +4,7 @@
 	var speed = 500,
 		i = 0,
 		doSomething = function() {
-		console.log("doSomething() executed");
+		console.log("doSomething() executed successfully");
 		i++;
 
 		if (i < 10) {
