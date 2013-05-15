@@ -1,0 +1,6 @@
+Git Essentials Checklist
+
+1. Benefits of git - Distributed System, Version Control, Staging Area, Open Source - DONE
+2. Basic git commands - init, status, log, commit, add - DONE
+3. Viewing repos - git log arguments - --oneline, --stat, --pretty="%h, %cn, %ce, %cr" - DONE
+4. Learn about branches - DONE
