@@ -4,4 +4,5 @@ Git Essentials Checklist
 2. Basic git commands - init, status, log, commit, add - DONE
 3. Viewing repos - git log arguments - --oneline, --stat, --pretty="%h, %cn, %ce, %cr" - DONE
 4. Learn about branches - branch, merge, delete via -d - DONE
-5. Learn about remote repos - remote, add repo <URL> <remote>, push, pull 
+5. Learn about remote repos - remote, add repo <URL> <remote>, push, pull - DONE
+6. Learn about orphan branches - 
